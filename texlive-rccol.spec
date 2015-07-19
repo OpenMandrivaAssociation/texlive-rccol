@@ -6,7 +6,7 @@
 # catalog-version 1.2c
 Name:		texlive-rccol
 Version:	1.2c
-Release:	9
+Release:	10
 Summary:	Decimal-centered optionally rounded numbers in tabular
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/rccol
