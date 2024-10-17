@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Decimal-centered optionally rounded numbers in tabular
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/rccol
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/rccol
 License:	OTHER-FREE
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/rccol.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/rccol.doc.r%{version}.tar.xz
